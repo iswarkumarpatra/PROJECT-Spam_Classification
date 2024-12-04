@@ -3,5 +3,4 @@ numpy
 matplotlib
 streamlit
 streamlit-option-menu
-sklearn
 scikit-learn
