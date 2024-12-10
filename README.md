@@ -14,7 +14,8 @@ To run this project, you need to install the following dependencies:
 | **Pandas**        | `pip install pandas`              |
 | **NumPy**         | `pip install numpy`               |
 | **Matplotlib**    | `pip install matplotlib`          |
-| **Tkinter**       | Available by default in Python    |
+| **Streamlit**     | `pip install streamlit`           |
+| **NLTK**          | `pip install nltk`                |
 
 ---
 
@@ -27,7 +28,7 @@ git clone https://github.com/iswarkumarpatra/PROJECT-Spam_Classification.git
 ```
 
 ### 2️⃣ **Prepare the Dataset**
-- Ensure the dataset is properly formatted and located in the `data/` folder.
+- Ensure the dataset is properly formatted 
 - If no dataset is available, follow the instructions in the project to fetch or generate it.
 
 ### 3️⃣ **Run the Script**
