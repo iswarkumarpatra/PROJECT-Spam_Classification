@@ -1,6 +1,6 @@
 <h1 align="center">📧 **SPAM EMAIL DETECTION SYSTEM** 🚫</h1>
 
-This project demonstrates a **Spam Classification System** built using Python and Machine Learning algorithms. The system is designed to classify messages or emails as spam or non-spam, providing an effective solution for detecting unwanted content.
+The PROJECT-Spam_Classification repository presents a machine learning system for detecting spam emails. It uses Natural Language Processing (NLP) techniques to preprocess text, extract features, and classify emails as spam or non-spam using trained models. Key features include model serialization for efficiency, integration of a labeled dataset, and an interactive interface built with Streamlit for user-friendly testing. The project relies on Python and libraries like scikit-learn, nltk, and pandas. Its modular and scalable design makes it a practical solution for spam detection with potential for future enhancements, such as integrating larger datasets and exploring advanced deep learning methods.
 
 ---
 
