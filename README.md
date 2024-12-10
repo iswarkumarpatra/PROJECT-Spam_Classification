@@ -32,16 +32,15 @@ git clone https://github.com/iswarkumarpatra/PROJECT-Spam_Classification.git
 - If no dataset is available, follow the instructions in the project to fetch or generate it.
 
 ### 3️⃣ **Run the Script**
-1. Open `spam_classifier.py` or the main script provided in the repository.
+1. Open `spamdetector.py` or the main script provided in the repository.
 2. Update any file paths or configurations based on your local environment if needed.
 3. Execute the script:
    ```bash
-   python spam_classifier.py
+   python spamdetector.py
    ```
 
 ### 4️⃣ **Train the Model**
 - The system will automatically train the model on the provided dataset.
-- The trained model will be saved in the `models/` folder for future use.
 
 ### 5️⃣ **Test the Model**
 - Test the system using sample input data to verify its functionality.
@@ -55,7 +54,7 @@ git clone https://github.com/iswarkumarpatra/PROJECT-Spam_Classification.git
 |---------------------------|-----------------------------------------------------------------------------|
 | **Dataset Preparation**   | Prepares the data required for training and testing the spam classification model. |
 | **Training the Model**    | Trains a machine learning model to classify messages as spam or non-spam.  |
-| **Testing and Evaluation**| Tests the system using test data and evaluates its performance using metrics such as accuracy, precision, and recall. |
+| **Testing and Evaluation**| Tests the system using test data and evaluates its performance using metrics such as accuracy, precision |
 | **Spam Classification UI**| (If applicable) A user-friendly interface for manual testing and classification of messages. |
 
 ---
@@ -63,13 +62,11 @@ git clone https://github.com/iswarkumarpatra/PROJECT-Spam_Classification.git
 ## 📊 **Outputs**
 
 1. **Trained Model**  
-   - The trained model is saved in the `models/` directory.
 
 2. **Results**  
    - Results are displayed in the terminal or GUI with classification output and accuracy metrics.
 
-3. **Logs and Reports**  
-   - Any logs or reports related to training, testing, and results will be stored in the `logs/` or `reports/` directory.
+
 
 ---
 
