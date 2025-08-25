@@ -4,22 +4,7 @@ The PROJECT-Spam_Classification repository presents a machine learning system fo
 
 ---
 
-## 🚀 **Code Requirements**
 
-To run this project, you need to install the following dependencies:
-
-| Dependency       | Installation Command               |
-|-------------------|------------------------------------|
-| **scikit-learn**  | `pip install scikit-learn`        |
-| **Pandas**        | `pip install pandas`              |
-| **NumPy**         | `pip install numpy`               |
-| **Matplotlib**    | `pip install matplotlib`          |
-| **Streamlit**     | `pip install streamlit`           |
-| **NLTK**          | `pip install nltk`                |
-
----
-
-## 📂 **Steps to Follow**
 
 ### 1️⃣ **Download the Repository**
 Clone this repository to your local machine:
